@@ -23,10 +23,6 @@ A Python Streamlit dashboard to visualize and analyze carbon intensity data coll
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/yourusername/energy-co2-dashboard.git
-cd energy-co2-dashboard
-```
 
 2. Create and activate a virtual environment:
 
